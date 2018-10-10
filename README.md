@@ -10,3 +10,8 @@ Example: For given N=2, the output must be X^2+2XY+Y^2
 
 More information on wikipedia:
 https://en.wikipedia.org/wiki/Binomial_theorem
+
+## Built with
+
+ - Java SE JDK 1.8
+ - NetBeans IDE 9.0
